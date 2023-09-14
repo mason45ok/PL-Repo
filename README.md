@@ -2,5 +2,6 @@
 * <em><strong>姓名：李騰騏
 * 系級：科技系2年級 
 * 授課教師：蔡芸琤老師</strong></em>
-# :page_facing_up: Homework
-# :file_folder: Program
+# :page_facing_up: 作業繳交區
+# :file_folder: 專題
+# :file_folder: 上課練習

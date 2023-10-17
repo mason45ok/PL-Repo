@@ -5,4 +5,5 @@
 # :page_facing_up: 作業繳交區
 # :file_folder: 專題
 >[#HW0-TEST](https://github.com/mason45ok/PL-Repo/tree/main/PL-test-set)  
->[#HW1](https://github.com/mason45ok/PL-Repo/tree/main/HW1)
+>[#HW1](https://github.com/mason45ok/PL-Repo/tree/main/HW1)  
+>[#HW2](https://github.com/mason45ok/PL-Repo/tree/main/HW2)

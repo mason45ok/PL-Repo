@@ -36,4 +36,5 @@ cleaned_text = re.sub(r'\s+', '', cleaned_text)
 >[#HW3](https://github.com/mason45ok/PL-Repo/tree/main/HW3)  
 HW3的內容通過網路上的教學內容輔助完成，順序為解析首頁，翻頁，解析五頁  
 其參考連結為[此](https://www.youtube.com/watch?v=O6h1csENqBc)  
->[#HW4](https://medium.com/@mason45ok/程式語言-文字雲-d06b582c15a3)
+>[#HW4](https://medium.com/@mason45ok/程式語言-文字雲-d06b582c15a3)  
+>[#HW5](https://medium.com/@mason45ok/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-voyant-facf2326d74c)
